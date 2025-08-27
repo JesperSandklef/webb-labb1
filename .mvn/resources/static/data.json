@@ -1,0 +1,38 @@
+[
+  {
+    "name": "The shining",
+    "director": "Director: Stanley kubrick",
+    "genre": "Genre: Horror",
+    "description": "Interstellar is a 2014 science fiction epic directed by Christopher Nolan, set in a dystopian future where Earth is slowly becoming uninhabitable due to crop failures and dust storms. The story follows Cooper, a former NASA pilot turned farmer, who is recruited for a last-ditch mission to save humanity. Alongside a team of scientists including Dr. Amelia Brand, Cooper travels through a wormhole near Saturn in search of a new planet that can sustain human life. As they explore distant worlds, they face extreme time dilation, emotional sacrifice, and the limits of human endurance. Meanwhile, Cooper’s daughter Murph works on Earth to solve a gravitational equation that could allow humanity to escape. The film explores themes of love, time, and survival, culminating in a journey that spans galaxies and dimensions, ultimately revealing that human connection may be the key to transcending space and time",
+    "picture": "https://image.tmdb.org/t/p/original/ji94IIScMTk0SARR3XIgBgLjuYB.jpg"
+  },
+  {
+    "name": "Interstellar",
+    "director": "Director: Christopher Nolan",
+    "genre": "Genre: Drama",
+    "description": "Interstellar is a 2014 science fiction epic directed by Christopher Nolan, set in a dystopian future where Earth is slowly becoming uninhabitable due to crop failures and dust storms. The story follows Cooper, a former NASA pilot turned farmer, who is recruited for a last-ditch mission to save humanity. Alongside a team of scientists including Dr. Amelia Brand, Cooper travels through a wormhole near Saturn in search of a new planet that can sustain human life. As they explore distant worlds, they face extreme time dilation, emotional sacrifice, and the limits of human endurance. Meanwhile, Cooper’s daughter Murph works on Earth to solve a gravitational equation that could allow humanity to escape. The film explores themes of love, time, and survival, culminating in a journey that spans galaxies and dimensions, ultimately revealing that human connection may be the key to transcending space and time",
+    "picture": "https://image.tmdb.org/t/p/original/sR1Wh1rNQCrGr6Qs47DCdXxEC0S.jpg"
+  },
+  {
+    "name": "Pulp fiction",
+    "director": "Director: Quentin Tarantino",
+    "genre": "Genre: Action",
+    "description": "Pulp Fiction is a cult classic film from 1994 directed by Quentin Tarantino, known for its nonlinear storytelling and sharp, stylized dialogue. The movie interweaves several narratives centered around criminals in Los Angeles. Hitmen Vincent Vega and Jules Winnfield work for gangster Marsellus Wallace and face a series of violent and philosophical encounters while retrieving a mysterious briefcase. Vincent is also tasked with taking Marsellus’s wife, Mia Wallace, out for the evening, which ends in chaos after she overdoses. Meanwhile, boxer Butch Coolidge defies Marsellus by winning a fight he was paid to lose, leading to a brutal showdown. The film opens and closes with a diner robbery by two small-time crooks, Pumpkin and Honey Bunny, tying the stories together thematically. With its dark humor, iconic characters, and unexpected twists, Pulp Fiction remains one of the most influential films of the 1990s.",
+    "picture": "https://image.tmdb.org/t/p/original/ycAeWUJfQpMTnAyP4ZyKIKCweeZ.jpg"
+  },
+  {
+    "name": "The nice guys",
+    "director": "Director: shane black",
+    "genre": "Genre: Comedy",
+    "description": "Interstellar is a 2014 science fiction epic directed by Christopher Nolan, set in a dystopian future where Earth is slowly becoming uninhabitable due to crop failures and dust storms. The story follows Cooper, a former NASA pilot turned farmer, who is recruited for a last-ditch mission to save humanity. Alongside a team of scientists including Dr. Amelia Brand, Cooper travels through a wormhole near Saturn in search of a new planet that can sustain human life. As they explore distant worlds, they face extreme time dilation, emotional sacrifice, and the limits of human endurance. Meanwhile, Cooper’s daughter Murph works on Earth to solve a gravitational equation that could allow humanity to escape. The film explores themes of love, time, and survival, culminating in a journey that spans galaxies and dimensions, ultimately revealing that human connection may be the key to transcending space and time",
+    "picture": "https://image.tmdb.org/t/p/original/uXdQztKoAtx7UU3RvqeF52KsoQP.jpg"
+  },
+  {
+    "name": "Lord of the rings the return of the king",
+    "director": "Director: Peter Jackson",
+    "genre": "Genre: Action",
+    "description": "The Lord of the Rings: The Return of the King (2003), directed by Peter Jackson, is the epic conclusion to J.R.R. Tolkien’s fantasy trilogy. As Frodo and Sam inch closer to Mount Doom to destroy the One Ring, unaware of Gollum’s plan to betray them, the forces of good prepare for a final stand against Sauron’s armies. Gandalf and Pippin arrive at Minas Tirith, where the city braces for siege, and Aragorn takes the Paths of the Dead to summon an army of spirits. The Battle of the Pelennor Fields becomes a turning point, with Éowyn and Merry defeating the Witch-king and Aragorn arriving with reinforcements. Meanwhile, Denethor descends into madness, and Faramir barely survives. To distract Sauron from Frodo’s mission, Aragorn leads a bold assault on the Black Gate. Frodo, overcome by the Ring’s power, fails to destroy it—but Gollum’s obsession leads to its accidental destruction. With Sauron defeated, Aragorn is crowned king, and the hobbits return home, forever changed. The film closes with Frodo’s departure to the Undying Lands, marking the end of the age of heroes and the beginning of peace in Middle-earth.",
+    "picture": "https://image.tmdb.org/t/p/original/uV4NEAkYNASLRuoNm7hDheC6VlZ.jpg"
+  }
+
+]

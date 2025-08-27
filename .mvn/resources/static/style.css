@@ -1,0 +1,100 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Segoe UI', sans-serif;
+    background-color: #121212;
+    color: #f0f0f0;
+    line-height: 1.6;
+    padding: 2rem;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+header h1 {
+    font-size: 2.5rem;
+    color: #ffcc00;
+}
+
+#movies-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+    justify-content: center;
+}
+
+.card {
+    background-color: #1e1e1e;
+    border-radius: 12px;
+    padding: 1rem;
+    width: 250px;
+    text-decoration: none;
+    color: inherit;
+    box-shadow: 0 0 10px rgba(0,0,0,0.3);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.card:hover {
+    transform: scale(1.03);
+    box-shadow: 0 0 20px rgba(255, 204, 0, 0.4);
+}
+
+.card img {
+    width: 100%;
+    border-radius: 8px;
+    margin-bottom: 1rem;
+}
+
+.card h2 {
+    font-size: 1.4rem;
+    margin-bottom: 0.5rem;
+    color: #ffcc00;
+}
+
+.card p {
+    font-size: 1rem;
+    margin-bottom: 0.3rem;
+}
+
+#movie-info {
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: #1e1e1e;
+    padding: 2rem;
+    border-radius: 12px;
+}
+
+#movie-info img {
+    max-width: 400px;
+    width: 100%;
+    border-radius: 8px;
+    margin-bottom: 1.5rem;
+}
+
+form {
+    margin-top: 1rem;
+}
+
+input, button {
+    margin-top: 0.5rem;
+    padding: 0.5rem;
+}
+
+@media (max-width: 768px) {
+    #movies-list {
+        flex-direction: column;
+        align-items: center;
+    }
+    .card {
+        width: 90%;
+    }
+    header h1 {
+        font-size: 2rem;
+    }
+}
